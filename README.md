@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 - Oracle Certified AI Foundations Associate  
 - Deloitte Data Analytics Job Simulation  
 - Google Foundations of Project Management  
-- IBM Python 101 for Data Science  
+- IBM Python 101 for Data Science
+- Simplilearn Data Science Expert with Python Django
 
 ---
 
