@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🏆 Certifications
-- Oracle Certified AI Foundations Associate  
+- Oracle Certified AI Foundations Associate
+- AWS Cloud Practitioner Essentials  
 - Deloitte Data Analytics Job Simulation  
 - Google Foundations of Project Management  
 - IBM Python 101 for Data Science
